@@ -30,6 +30,8 @@ import java.util.List;
  * @date 2019/3/22  21:32
  */
 public class BookDaoImplTest {
+	
+	public void add(){}
 
     @Test
     public void luceneTest(){
